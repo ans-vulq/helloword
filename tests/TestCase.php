@@ -1,5 +1,6 @@
 <?php
 
+//vulq kjdskjdfaskljdas
 abstract class TestCase extends Illuminate\Foundation\Testing\TestCase
 {
     /**
